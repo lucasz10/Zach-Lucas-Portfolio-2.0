@@ -17,41 +17,61 @@ const Navigation = () => {
       <h1> My Portfolio Nav</h1>
       {/* Conditional to About Me Button */}
       {page === "aboutMe" ? (
-        <Button variant="dark" disabled>
+        <Button variant="dark" className="m-2" disabled>
           About Me
         </Button>
       ) : (
-        <Button variant="dark" value="aboutMe" onClick={changePageState}>
+        <Button
+          variant="dark"
+          value="aboutMe"
+          className="m-2"
+          onClick={changePageState}
+        >
           About Me
         </Button>
       )}
       {/* Conditional to Portfolio Button */}
       {page === "portfolio" ? (
-        <Button variant="dark" disabled>
+        <Button variant="dark" className="m-2" disabled>
           Portfolio
         </Button>
       ) : (
-        <Button variant="dark" value="portfolio" onClick={changePageState}>
+        <Button
+          variant="dark"
+          value="portfolio"
+          className="m-2"
+          onClick={changePageState}
+        >
           Portfolio
         </Button>
       )}
       {/* Conditional to Contact Button */}
       {page === "contact" ? (
-        <Button variant="dark" disabled>
+        <Button variant="dark" className="m-2" disabled>
           Contact Me
         </Button>
       ) : (
-        <Button variant="dark" value="contact" onClick={changePageState}>
+        <Button
+          variant="dark"
+          value="contact"
+          className="m-2"
+          onClick={changePageState}
+        >
           Contact Me
         </Button>
       )}
       {/* Conditional to Resume Button */}
       {page === "resume" ? (
-        <Button variant="dark" disabled>
+        <Button variant="dark" className="m-2" disabled>
           Resume
         </Button>
       ) : (
-        <Button variant="dark" value="resume" onClick={changePageState}>
+        <Button
+          variant="dark"
+          value="resume"
+          className="m-2"
+          onClick={changePageState}
+        >
           Resume
         </Button>
       )}
