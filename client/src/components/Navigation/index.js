@@ -13,7 +13,7 @@ const Navigation = () => {
   };
 
   return (
-    <div className="d-flex flex-row float-end">
+    <div className="d-flex flex-row justify-items-end">
       {/* Conditional to About Me Button */}
       {page === "aboutMe" ? (
         <Button variant="dark" className="m-2" disabled>

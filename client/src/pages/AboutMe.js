@@ -2,24 +2,24 @@ import React from "react";
 
 const AboutMe = () => {
   return (
-    <div class="d-flex justify-content-center align-items-center">
-      <div class="card mx-2 w-50" id="introduction">
-        <div class="card-body">
-          <p class="text-center">
+    <div className="d-flex justify-content-center align-items-center m-4">
+      <div className="card mx-2 col-9 col-md-12" id="introduction">
+        <div className="card-body">
+          <p className="text-center">
             I absolutely love volleyball, and have been actively playing since
             2013. In recent history, I established and have been managing a
             semiprofessional volleyball team for the Volleyball League of
             America, even going as far as preparing a website for the team,
             which will be found in the links below when I complete it.
           </p>
-          <p class="text-center">
+          <p className="text-center">
             I am recently engaged to a lovely woman named Jorden, and we both
             parent the adorable fur baby as well. She has a background in
             graphic design, so maybe we can become a duo that develops beautiful
             websites from our own office. We've already brainstormed multiple
             ideas that may come to fruition later in this year!
           </p>
-          <p class="text-center">
+          <p className="text-center">
             My education has taken me all over the place. I first entered
             Arizona State University pursuing a B.S. in Computer Systems
             Engineering. My sophomore year, I decided to pursue psychology
