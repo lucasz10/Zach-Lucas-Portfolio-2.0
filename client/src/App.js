@@ -11,7 +11,6 @@ import AboutMe from "./pages/AboutMe";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
-import Home from "./pages/Home";
 
 function App() {
   return (
@@ -21,7 +20,6 @@ function App() {
         <Navigation />
         <div className="container">
           <Routes>
-            <Route path="/" element={<Home />} />
             <Route path="/aboutMe" element={<AboutMe />} />
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/contact" element={<Contact />} />

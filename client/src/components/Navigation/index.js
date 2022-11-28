@@ -1,10 +1,17 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Button from "react-bootstrap/Button";
 import { useNavigate } from "react-router-dom";
 
 const Navigation = () => {
   const [page, setPage] = useState("");
   let navigate = useNavigate();
+
+  useEffect(() => {
+    if (!page) {
+      setPage("aboutMe");
+      navigate("/aboutMe");
+    }
+  }, []);
 
   const changePageState = (e) => {
     e.preventDefault();
