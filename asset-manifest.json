@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Zach-Lucas-Portfolio-2.0/static/css/main.d370a51c.css",
+    "main.js": "/Zach-Lucas-Portfolio-2.0/static/js/main.d5afbc8f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Zach-Lucas-Portfolio-2.0/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/resume_pic.PNG": "/Zach-Lucas-Portfolio-2.0/static/media/resume_pic.337328d809c7ff2e603b.PNG",
+    "static/media/Zach_Resume_2022_Updated.pdf": "/Zach-Lucas-Portfolio-2.0/static/media/Zach_Resume_2022_Updated.f1b9729b5297f5078b96.pdf",
+    "static/media/website-logo.png": "/Zach-Lucas-Portfolio-2.0/static/media/website-logo.087ee1d8eb88a5b077c1.png",
+    "index.html": "/Zach-Lucas-Portfolio-2.0/index.html",
+    "main.d370a51c.css.map": "/Zach-Lucas-Portfolio-2.0/static/css/main.d370a51c.css.map",
+    "main.d5afbc8f.js.map": "/Zach-Lucas-Portfolio-2.0/static/js/main.d5afbc8f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Zach-Lucas-Portfolio-2.0/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d370a51c.css",
+    "static/js/main.d5afbc8f.js"
+  ]
+}
