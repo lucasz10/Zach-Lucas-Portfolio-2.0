@@ -6,7 +6,7 @@ import liLogo from "../../assets/images/linkedin-logo.png";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className="border-top border-4 border-dark">
       <h3 className="mx-3"> Media Links </h3>
       <a href="https://www.instagram.com/lucas.zach10/?hl=en">
         <img src={igLogo} className="mx-3" alt="Instagram Logo" />

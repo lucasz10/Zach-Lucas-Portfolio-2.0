@@ -1,5 +1,4 @@
 import React from "react";
-import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 import projects from "../../assets/data/projects";
 

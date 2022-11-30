@@ -15,7 +15,7 @@ import Resume from "./pages/Resume";
 function App() {
   return (
     <Router>
-      <div className="flex-column justify-flex-start min-100-vh">
+      <div>
         <Header />
         <Navigation />
         <div className="container">
