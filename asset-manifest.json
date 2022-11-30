@@ -1,18 +1,24 @@
 {
   "files": {
     "main.css": "/Zach-Lucas-Portfolio-2.0/static/css/main.d370a51c.css",
-    "main.js": "/Zach-Lucas-Portfolio-2.0/static/js/main.ae879d86.js",
+    "main.js": "/Zach-Lucas-Portfolio-2.0/static/js/main.d63aa999.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Zach-Lucas-Portfolio-2.0/static/js/787.c4e7f8f9.chunk.js",
     "static/media/resume_pic.PNG": "/Zach-Lucas-Portfolio-2.0/static/media/resume_pic.337328d809c7ff2e603b.PNG",
+    "static/media/projectPlanner_landingPage.png": "/Zach-Lucas-Portfolio-2.0/static/media/projectPlanner_landingPage.daa2e36667655d04e5d2.png",
+    "static/media/weatherSearchDashboard_landingPage.png": "/Zach-Lucas-Portfolio-2.0/static/media/weatherSearchDashboard_landingPage.4891e5ee88a3811cc594.png",
+    "static/media/pizzaApp_landingPage.png": "/Zach-Lucas-Portfolio-2.0/static/media/pizzaApp_landingPage.08278505cbec479c46e9.png",
+    "static/media/volleyball-team-management_landingPage.png": "/Zach-Lucas-Portfolio-2.0/static/media/volleyball-team-management_landingPage.2c21f21eca93089b4248.png",
     "static/media/Zach_Resume_2022_Updated.pdf": "/Zach-Lucas-Portfolio-2.0/static/media/Zach_Resume_2022_Updated.f1b9729b5297f5078b96.pdf",
+    "static/media/TypeGame_landingpagepic.png": "/Zach-Lucas-Portfolio-2.0/static/media/TypeGame_landingpagepic.92a371f58db4fb87cd65.png",
+    "static/media/passwordGenerator_landingPage.png": "/Zach-Lucas-Portfolio-2.0/static/media/passwordGenerator_landingPage.0729f193225962696e40.png",
     "static/media/website-logo.png": "/Zach-Lucas-Portfolio-2.0/static/media/website-logo.087ee1d8eb88a5b077c1.png",
     "index.html": "/Zach-Lucas-Portfolio-2.0/index.html",
     "main.d370a51c.css.map": "/Zach-Lucas-Portfolio-2.0/static/css/main.d370a51c.css.map",
-    "main.ae879d86.js.map": "/Zach-Lucas-Portfolio-2.0/static/js/main.ae879d86.js.map",
+    "main.d63aa999.js.map": "/Zach-Lucas-Portfolio-2.0/static/js/main.d63aa999.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Zach-Lucas-Portfolio-2.0/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d370a51c.css",
-    "static/js/main.ae879d86.js"
+    "static/js/main.d63aa999.js"
   ]
 }
