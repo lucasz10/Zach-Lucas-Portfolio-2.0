@@ -1,8 +1,8 @@
 import React from "react";
 
-import igLogo from "./ig-logo.jpg";
-import ghLogo from "./github-logo.png";
-import liLogo from "./linkedin-logo.png";
+import igLogo from "../../assets/images/ig-logo.jpg";
+import ghLogo from "../../assets/images/github-logo.png";
+import liLogo from "../../assets/images/linkedin-logo.png";
 
 const Footer = () => {
   return (
