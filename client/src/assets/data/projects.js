@@ -1,11 +1,18 @@
 import volleyballImg from "../images/volleyball-team-management_landingPage.png";
 import typeGameImg from "../images/TypeGame_landingpagepic.png";
-import projectPlanImg from "../images/projectPlanner_landingPage.png";
+import merchantAlchemistImg from "../images/merchant-alchemist_landingPage.png";
 import weatherImg from "../images/weatherSearchDashboard_landingPage.png";
 import passwordImg from "../images/passwordGenerator_landingPage.png";
 import pizzaImg from "../images/pizzaApp_landingPage.png";
 
 const projects = [
+  {
+    title: "Merchant Alchemist",
+    imgSrc: merchantAlchemistImg,
+    desc: "MERN Stack Game Application",
+    repo: "https://github.com/lucasz10/merchant-alchemist",
+    website: "https://merchant-alchemist.herokuapp.com/",
+  },
   {
     title: "Volleyball Team Management",
     imgSrc: volleyballImg,
@@ -19,13 +26,6 @@ const projects = [
     desc: "Front-End Game Application",
     repo: "https://github.com/lucasz10/Type-the-Word-or-Explode",
     website: "https://lucasz10.github.io/Type-the-Word-or-Explode/",
-  },
-  {
-    title: "Project Planner",
-    imgSrc: projectPlanImg,
-    desc: "Front-End Planning Application",
-    repo: "https://github.com/lucasz10/Project-Day-Planner",
-    website: "https://lucasz10.github.io/Project-Day-Planner/",
   },
   {
     title: "Weather Search Dashboard",
